@@ -1,6 +1,6 @@
 # <Project-portfolio-01>
 
-## We were tasked to correct a link function and clean up the style.css 
+## We are tasked to correct a link function and clean up the style.css 
 
 
 - As a developer, our goal is to ensure a working website.
